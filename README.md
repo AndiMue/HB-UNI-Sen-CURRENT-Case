@@ -1,4 +1,4 @@
-# HB-UNI-Sen-CURRENT-Displya-Case
+# HB-UNI-Sen-CURRENT-Display-Case
 
 The case is made for the current sensor HB-UNI-Sen-CURRENT by Jérôme.
 I devided the sensor in two elements, because the sensors are at another place as the display.
